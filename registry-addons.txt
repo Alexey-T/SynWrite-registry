@@ -1,4 +1,3 @@
------|------|-----
 Align by Separator | Alignes lines in selection, by separator-char (eg "=") | PyPlugins/plugin.kvichans.AlignBySeparator.zip
 Ascii Art | Allows to draw text with several ASCII Art fonts | PyPlugins/plugin.Alexey.AsciiArt.zip
 AStyle Format | Formats (beautifies) source code for lexers: C++, C, C#, Java, using good AStyle library | PyPlugins/plugin.Alexey.AStyleFormat.zip
