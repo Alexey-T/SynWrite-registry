@@ -13,6 +13,7 @@ Color Picker | Shows dialog to insert any color code | PyPlugins/plugin.Alexey.C
 Color Text Saved | Works with "Color Text", saves applied colors/styles to a helper file | PyPlugins/plugin.Alexey.ColorTextSaved.zip
 Color Text | Allows to colorize text blocks, like Notepad++ "Style token" | PyPlugins/plugin.Alexey.ColorText.zip
 Column Markers | Commands to control "column markers" | PyPlugins/plugin.Alexey.ColumnMarkers.zip
+Complete From Text | Auto-completion (Ctrl+Space) list with words from current text | PyPlugins/plugin.Alexey.Complete_From_Text.zip
 Css AutoPrefixer | Inserts vendor prefixes into CSS code (requires Node.js) | PyPlugins/plugin.Alexey.CssAutoPrefixer.zip
 Css CanIUse | Shows CSS info from site caniuse.com | PyPlugins/plugin.Alexey.CssCanIUse.zip
 Css Comb | Sorts CSS properties in specific order (CSScomb engine) | PyPlugins/plugin.Alexey.CssComb.zip
