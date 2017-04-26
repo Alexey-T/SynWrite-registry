@@ -5,6 +5,7 @@ Find in Files | Gives dialog to search for multiple files containing some string
 Backup File | Creates backup copy of current file | PyPlugins/plugin.kvichans.Backup_File.zip
 Base Encoder | Allows to encode/decode text in Base64, Base32, Base16, Quoted-printable | PyPlugins/plugin.Alexey.BaseEncoder.zip
 Brackets Hilite | Hilites pair brackets, jumps to pair bracket | PyPlugins/plugin.Alexey.BracketsHilite.zip
+Calc Expression | Caclulates math expression in text | PyPlugins/plugin.Alexey.Calc_Expression.zip
 Carets Numbering | Inserts increasing numbers at all multi-carets | PyPlugins/plugin.Alexey.CaretsNumbering.zip
 Case Converter | Changes case of current word: the_snake_case, THE_UPPER_CASE, theCamelCase, ThePascalCase | PyPlugins/plugin.Alexey.CaseConverter.zip
 CBlock | For selected lines, adds indent and surrounds with { } brackets | PyPlugins/plugin.Alexey.CBlock.zip
