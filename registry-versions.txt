@@ -51,6 +51,7 @@ Js Format=1.0.4
 Js Minifier=1.0.0
 Lorem Ipsum=1.0.0
 Markdown Preview=1.0.2
+Markdown Table Format=2017.04.30
 Move Caret=2017.03.14
 NumToWords=0.7.0
 NumToWords Propis=0.6.0
