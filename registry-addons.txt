@@ -122,6 +122,7 @@ Lexer: F#                           | | Lexers/lexer.F%23.zip
 Lexer: Factor                       | | Lexers/lexer.Factor.zip
 Lexer: Forth                        | | Lexers/lexer.Forth.zip
 Lexer: Fortran                      | | Lexers/lexer.Fortran.zip
+Lexer: Fountain                     | | Lexers/lexer.Fountain.zip
 Lexer: FoxPro                       | | Lexers/lexer.FoxPro.zip
 Lexer: GAMS                         | | Lexers/lexer.GAMS.zip
 Lexer: Gherkin                      | | Lexers/lexer.Gherkin.zip
