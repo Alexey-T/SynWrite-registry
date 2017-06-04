@@ -203,6 +203,7 @@ Lexer: Puppet                       | | Lexers/lexer.Puppet.zip
 Lexer: R                            | | Lexers/lexer.R.zip
 Lexer: R Markdown                   | | Lexers/lexer.R_Markdown.zip
 Lexer: Racket                       | | Lexers/lexer.Racket.zip
+Lexer: Rainmeter                    | | Lexers/lexer.Rainmeter.zip
 Lexer: Ragel                        | | Lexers/lexer.Ragel.zip
 Lexer: Razor                        | | Lexers/lexer.Razor.zip
 Lexer: Regular expressions          | | Lexers/lexer.Regular_expressions.zip
@@ -225,6 +226,7 @@ Lexer: Strace                       | | Lexers/lexer.Strace.zip
 Lexer: Stylus                       | | Lexers/lexer.Stylus.zip
 Lexer: Swift                        | | Lexers/lexer.Swift.zip
 Lexer: T-SQL                        | | Lexers/lexer.T-SQL.zip
+Lexer: TakeCommand                  | | Lexers/lexer.TakeCommand.zip
 Lexer: Tcl                          | | Lexers/lexer.Tcl.zip
 Lexer: Textile                      | | Lexers/lexer.Textile.zip
 Lexer: Text Russian detector        | | Lexers/lexer.Text_Russian_detector.zip
