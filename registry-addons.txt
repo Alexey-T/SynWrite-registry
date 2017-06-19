@@ -226,7 +226,6 @@ Lexer: Stylus                       | | Lexers/lexer.Stylus.zip
 Lexer: Swift                        | | Lexers/lexer.Swift.zip
 Lexer: T-SQL                        | | Lexers/lexer.T-SQL.zip
 Lexer: TakeCommand                  | | Lexers/lexer.TakeCommand.zip
-Lexer: Tcl                          | | Lexers/lexer.Tcl.zip
 Lexer: Textile                      | | Lexers/lexer.Textile.zip
 Lexer: Text Russian detector        | | Lexers/lexer.Text_Russian_detector.zip
 Lexer: Text with indentation        | | Lexers/lexer.Text_with_indentation.zip
@@ -235,7 +234,6 @@ Lexer: Tree                         | | Lexers/lexer.Tree.zip
 Lexer: Twig                         | | Lexers/lexer.Twig.zip
 Lexer: TypeScript                   | | Lexers/lexer.TypeScript.zip
 Lexer: Vala                         | | Lexers/lexer.Vala.zip
-Lexer: VBScript                     | | Lexers/lexer.VBScript.zip
 Lexer: Verilog HDL                  | | Lexers/lexer.Verilog_HDL.zip
 Lexer: VHDL                         | | Lexers/lexer.VHDL.zip
 Lexer: VimL                         | | Lexers/lexer.VimL.zip
