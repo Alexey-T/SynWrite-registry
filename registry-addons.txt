@@ -91,7 +91,6 @@ Lexer: AutoIt                       | | Lexers/lexer.AutoIt.zip
 Lexer: Automake                     | | Lexers/lexer.Automake.zip
 Lexer: AviSynth                     | | Lexers/lexer.AviSynth.zip
 Lexer: AWK                          | | Lexers/lexer.AWK.zip
-Lexer: Bash script                  | | Lexers/lexer.Bash_script.zip
 Lexer: BibTeX                       | | Lexers/lexer.BibTeX.zip
 Lexer: Bitsquid SJSON               | | Lexers/lexer.Bitsquid_SJSON.zip
 Lexer: Bohemia SQF                  | | Lexers/lexer.Bohemia_SQF.zip
