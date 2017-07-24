@@ -156,6 +156,7 @@ Lexer: Java Velocity                | | Lexers/lexer.Java_Velocity.zip
 Lexer: JavaScript Babel             | | Lexers/lexer.JavaScript_Babel.zip
 Lexer: JCL                          | | Lexers/lexer.JCL.zip
 Lexer: Jinja2                       | | Lexers/lexer.Jinja2.zip
+Lexer: Jsonnet                      | | Lexers/lexer.Jsonnet.zip
 Lexer: Julia                        | | Lexers/lexer.Julia.zip
 Lexer: Kivy                         | | Lexers/lexer.Kivy.zip
 Lexer: KiXtart                      | | Lexers/lexer.KiXtart.zip
