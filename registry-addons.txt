@@ -156,6 +156,7 @@ Lexer: Java Velocity                | | Lexers/lexer.Java_Velocity.zip
 Lexer: JavaScript Babel             | | Lexers/lexer.JavaScript_Babel.zip
 Lexer: JCL                          | | Lexers/lexer.JCL.zip
 Lexer: Jinja2                       | | Lexers/lexer.Jinja2.zip
+Lexer: Jsonnet                      | | Lexers/lexer.Jsonnet.zip
 Lexer: Julia                        | | Lexers/lexer.Julia.zip
 Lexer: Kivy                         | | Lexers/lexer.Kivy.zip
 Lexer: KiXtart                      | | Lexers/lexer.KiXtart.zip
@@ -165,6 +166,7 @@ Lexer: Lisp                         | | Lexers/lexer.Lisp.zip
 Lexer: LiveCode                     | | Lexers/lexer.LiveCode.zip
 Lexer: Log files                    | | Lexers/lexer.Logfiles.zip
 Lexer: Lola-2                       | | Lexers/lexer.Lola-2.zip
+Lexer: LS-DYNA                      | | Lexers/lexer.LS-DYNA.zip
 Lexer: MacroScript (Macro Sheduler) | | Lexers/lexer.MacroScript_(Macro_Sheduler).zip
 Lexer: MATLAB                       | | Lexers/lexer.MATLAB.zip
 Lexer: MediaWiki                    | | Lexers/lexer.MediaWiki.zip
