@@ -172,6 +172,7 @@ Lexer: Metafont                     | | Lexers/lexer.Metafont.zip
 Lexer: MIB files (SNMP protocol)    | | Lexers/lexer.MIB_files_(SNMP_protocol).zip
 Lexer: Modelica                     | | Lexers/lexer.Modelica.zip
 Lexer: Modula 2                     | | Lexers/lexer.Modula_2.zip
+Lexer: Monkey                       | | Lexers/lexer.Monkey.zip
 Lexer: MSVS Solution                | | Lexers/lexer.MSVS_Solution.zip
 Lexer: MySQL SQL                    | | Lexers/lexer.MySQL_SQL.zip
 Lexer: MySQL Stored Procedures      | | Lexers/lexer.MySQL_Stored_Procedures.zip
@@ -194,6 +195,7 @@ Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
 Lexer: PHP_                         | | Lexers/lexer.PHP_.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
+Lexer: PkgBuild                     | | Lexers/lexer.PkgBuild.zip
 Lexer: PL/SQL                       | | Lexers/lexer.PL_SQL.zip
 Lexer: PlantUML                     | | Lexers/lexer.PlantUML.zip
 Lexer: PostScript                   | | Lexers/lexer.PostScript.zip
