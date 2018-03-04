@@ -193,6 +193,7 @@ Lexer: OneC (1C)                    | | Lexers/lexer.OneC_(1C).zip
 Lexer: OpenCL                       | | Lexers/lexer.OpenCL.zip
 Lexer: OpenEdge ABL                 | | Lexers/lexer.OpenEdge_ABL.zip
 Lexer: OpenSCAD                     | | Lexers/lexer.OpenSCAD.zip
+Lexer: Org-mode                     | | Lexers/lexer.Org-mode.zip
 Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
