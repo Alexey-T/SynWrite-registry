@@ -221,6 +221,7 @@ Lexer: Rust                         | | Lexers/lexer.Rust.zip
 Lexer: Sass                         | | Lexers/lexer.Sass.zip
 Lexer: Scala                        | | Lexers/lexer.Scala.zip
 Lexer: Scheme                       | | Lexers/lexer.Scheme.zip
+Lexer: Scilab                       | | Lexers/lexer.Scilab.zip
 Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
 Lexer: SQL (Blue)                   | | Lexers/lexer.SQL_Blue.zip
