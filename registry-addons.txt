@@ -133,6 +133,7 @@ Lexer: Graphviz DOT                 | | Lexers/lexer.Graphviz_DOT.zip
 Lexer: GraphQL                      | | Lexers/lexer.GraphQL.zip
 Lexer: Great Cow Basic              | | Lexers/lexer.Great_Cow_Basic.zip
 Lexer: Groovy                       | | Lexers/lexer.Groovy.zip
+Lexer: Grub4Dos                     | | Lexers/lexer.Grub4Dos.zip
 Lexer: Haml                         | | Lexers/lexer.Haml.zip
 Lexer: Harbour                      | | Lexers/lexer.Harbour.zip
 Lexer: Haxe                         | | Lexers/lexer.Haxe.zip
