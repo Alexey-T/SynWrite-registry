@@ -144,9 +144,8 @@ Lexer: HTML Embedded JS             | | Lexers/lexer.HTML_Embedded_JS.zip
 Lexer: HTML Handlebars              | | Lexers/lexer.HTML_Handlebars.zip
 Lexer: HTML Laravel Blade           | | Lexers/lexer.HTML_Laravel_Blade.zip
 Lexer: HTML Mustache                | | Lexers/lexer.HTML_Mustache.zip
-Lexer: HTML Siteleaf Liquid         | | Lexers/lexer.HTML_Siteleaf_Liquid.zip
+Lexer: HTML Liquid                  | | Lexers/lexer.HTML_Liquid.zip
 Lexer: HTML Smarty                  | | Lexers/lexer.HTML_Smarty.zip
-Lexer: HTML_                        | | Lexers/lexer.HTML_.zip
 Lexer: IDL files                    | | Lexers/lexer.IDL_files.zip
 Lexer: IDL language                 | | Lexers/lexer.IDL_language.zip
 Lexer: Informix 4GL                 | | Lexers/lexer.Informix_4GL.zip
@@ -198,7 +197,6 @@ Lexer: Org-mode                     | | Lexers/lexer.Org-mode.zip
 Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
-Lexer: PHP_                         | | Lexers/lexer.PHP_.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
 Lexer: PKGBUILD                     | | Lexers/lexer.PKGBUILD.zip
