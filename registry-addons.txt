@@ -87,6 +87,7 @@ Lexer: Assembly SHARC DSP           | | Lexers/lexer.Assembly_SHARC_DSP.zip
 Lexer: Assembly SPARC               | | Lexers/lexer.Assembly_SPARC.zip
 Lexer: Assembly Z80 SjASM           | | Lexers/lexer.Assembly_Z80_SjASM.zip
 Lexer: Asymptote                    | | Lexers/lexer.Asymptote.zip
+Lexer: Autoconf M4                  | | Lexers/lexer.Autoconf_M4.zip
 Lexer: AutoHotkey                   | | Lexers/lexer.AutoHotkey.zip
 Lexer: AutoIt                       | | Lexers/lexer.AutoIt.zip
 Lexer: Automake                     | | Lexers/lexer.Automake.zip
