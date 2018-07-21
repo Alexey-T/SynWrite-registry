@@ -77,6 +77,7 @@ Lexer: Apache Pig                   | | Lexers/lexer.Apache_Pig.zip
 Lexer: AppleScript                  | | Lexers/lexer.AppleScript.zip
 Lexer: Arduino                      | | Lexers/lexer.Arduino.zip
 Lexer: ASAP2                        | | Lexers/lexer.ASAP2.zip
+Lexer: AsciiDoc                     | | Lexers/lexer.AsciiDoc.zip
 Lexer: Assembly ARM                 | | Lexers/lexer.Assembly_ARM.zip
 Lexer: Assembly AVR                 | | Lexers/lexer.Assembly_AVR.zip
 Lexer: Assembly FASM                | | Lexers/lexer.Assembly_FASM.zip
