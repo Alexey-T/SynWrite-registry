@@ -132,6 +132,7 @@ Lexer: GDScript                     | | Lexers/lexer.GDScript.zip
 Lexer: Gherkin                      | | Lexers/lexer.Gherkin.zip
 Lexer: GHS MULTI IDE                | | Lexers/lexer.GHS_MULTI_IDE.zip
 Lexer: GLSL                         | | Lexers/lexer.GLSL.zip
+Lexer: Go                           | | Lexers/lexer.Go.zip
 Lexer: Gold Parser                  | | Lexers/lexer.Gold_Parser.zip
 Lexer: Graphviz DOT                 | | Lexers/lexer.Graphviz_DOT.zip
 Lexer: GraphQL                      | | Lexers/lexer.GraphQL.zip
@@ -258,6 +259,7 @@ Lexer: Windows Resource Script      | | Lexers/lexer.Windows_Resource_Script.zip
 Lexer: WSH script                   | | Lexers/lexer.WSH_script.zip
 Lexer: XSLT                         | | Lexers/lexer.XSLT.zip
 Lexer: Yacc                         | | Lexers/lexer.Yacc.zip
+Lexer: YAML                         | | Lexers/lexer.YAML.zip
 Lexer: ZenScript (MineTweaker)      | | Lexers/lexer.ZenScript_(MineTweaker).zip
 Linter: CppCheck | SynLint subplugin for C++ lexer | Linters/linter.CppCheck.zip
 Linter: CppLint | SynLint subplugin for C++ lexer | Linters/linter.CppLint.zip
