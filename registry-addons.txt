@@ -230,6 +230,7 @@ Lexer: Scheme                       | | Lexers/lexer.Scheme.zip
 Lexer: Scilab                       | | Lexers/lexer.Scilab.zip
 Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
+Lexer: SPIR                         | | Lexers/lexer.SPIR.zip
 Lexer: SQL (Blue)                   | | Lexers/lexer.SQL_Blue.zip
 Lexer: SQL (White)                  | | Lexers/lexer.SQL_White.zip
 Lexer: Squirrel                     | | Lexers/lexer.Squirrel.zip
