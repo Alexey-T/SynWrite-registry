@@ -144,6 +144,7 @@ Lexer: Haml                         | | Lexers/lexer.Haml.zip
 Lexer: Harbour                      | | Lexers/lexer.Harbour.zip
 Lexer: Haxe                         | | Lexers/lexer.Haxe.zip
 Lexer: HJSON                        | | Lexers/lexer.HJSON.zip
+Lexer: HLSL                         | | Lexers/lexer.HLSL.zip
 Lexer: HTML Diafan                  | | Lexers/lexer.HTML_Diafan.zip
 Lexer: HTML Django DTL              | | Lexers/lexer.HTML_Django_DTL.zip
 Lexer: HTML Embedded JS             | | Lexers/lexer.HTML_Embedded_JS.zip
