@@ -82,6 +82,7 @@ Lexer: Assembly ARM                 | | Lexers/lexer.Assembly_ARM.zip
 Lexer: Assembly AVR                 | | Lexers/lexer.Assembly_AVR.zip
 Lexer: Assembly FASM                | | Lexers/lexer.Assembly_FASM.zip
 Lexer: Assembly JWASM               | | Lexers/lexer.Assembly_JWASM.zip
+Lexer: Assembly MASM x86            | | Lexers/lexer.Assembly_MASM_x86.zip
 Lexer: Assembly MIPS                | | Lexers/lexer.Assembly_MIPS.zip
 Lexer: Assembly PowerPC             | | Lexers/lexer.Assembly_PowerPC.zip
 Lexer: Assembly SHARC DSP           | | Lexers/lexer.Assembly_SHARC_DSP.zip
