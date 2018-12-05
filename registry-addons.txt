@@ -224,6 +224,7 @@ Lexer: Razor                        | | Lexers/lexer.Razor.zip
 Lexer: Regular expressions          | | Lexers/lexer.Regular_expressions.zip
 Lexer: reStructuredText             | | Lexers/lexer.reStructuredText.zip
 Lexer: Rexx                         | | Lexers/lexer.Rexx.zip
+Lexer: RON                          | | Lexers/lexer.RON.zip
 Lexer: RPG IV                       | | Lexers/lexer.RPG_IV.zip
 Lexer: RTF                          | | Lexers/lexer.RTF.zip
 Lexer: Rust                         | | Lexers/lexer.Rust.zip
