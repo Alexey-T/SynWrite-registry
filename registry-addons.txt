@@ -102,6 +102,7 @@ Lexer: Bitsquid SJSON               | | Lexers/lexer.Bitsquid_SJSON.zip
 Lexer: Bohemia SQF                  | | Lexers/lexer.Bohemia_SQF.zip
 Lexer: Boo                          | | Lexers/lexer.Boo.zip
 Lexer: Brainfuck                    | | Lexers/lexer.Brainfuck.zip
+Lexer: C#                           | | Lexers/lexer.C%23.zip
 Lexer: Caffe Prototxt               | | Lexers/lexer.Caffe_Prototxt.zip
 Lexer: Caml                         | | Lexers/lexer.Caml.zip
 Lexer: Clarion                      | | Lexers/lexer.Clarion.zip
@@ -145,6 +146,7 @@ Lexer: Groovy                       | | Lexers/lexer.Groovy.zip
 Lexer: Grub4Dos                     | | Lexers/lexer.Grub4Dos.zip
 Lexer: Haml                         | | Lexers/lexer.Haml.zip
 Lexer: Harbour                      | | Lexers/lexer.Harbour.zip
+Lexer: Haskell                      | | Lexers/lexer.Haskell.zip
 Lexer: Haxe                         | | Lexers/lexer.Haxe.zip
 Lexer: HJSON                        | | Lexers/lexer.HJSON.zip
 Lexer: HLSL                         | | Lexers/lexer.HLSL.zip
@@ -209,6 +211,7 @@ Lexer: Org-mode                     | | Lexers/lexer.Org-mode.zip
 Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
+Lexer: Perl                         | | Lexers/lexer.Perl.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
 Lexer: PKGBUILD                     | | Lexers/lexer.PKGBUILD.zip
