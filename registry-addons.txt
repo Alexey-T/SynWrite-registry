@@ -118,6 +118,7 @@ Lexer: CRF files                    | | Lexers/lexer.CRF.zip
 Lexer: CUDA C++                     | | Lexers/lexer.CUDA_C%2B%2B.zip
 Lexer: D                            | | Lexers/lexer.D.zip
 Lexer: Dart                         | | Lexers/lexer.Dart.zip
+Lexer: Delphi resources             | | Lexers/lexer.Delphi_resources.zip
 Lexer: Dockerfile                   | | Lexers/lexer.Dockerfile.zip
 Lexer: Eiffel                       | | Lexers/lexer.Eiffel.zip
 Lexer: Elixir                       | | Lexers/lexer.Elixir.zip
@@ -252,6 +253,7 @@ Lexer: Swift                        | | Lexers/lexer.Swift.zip
 Lexer: T-SQL                        | | Lexers/lexer.T-SQL.zip
 Lexer: TAGML                        | | Lexers/lexer.TAGML.zip
 Lexer: TakeCommand                  | | Lexers/lexer.TakeCommand.zip
+Lexer: Tcl                          | | Lexers/lexer.Tcl.zip
 Lexer: Textile                      | | Lexers/lexer.Textile.zip
 Lexer: Text Russian detector        | | Lexers/lexer.Text_Russian_detector.zip
 Lexer: Text with indentation        | | Lexers/lexer.Text_with_indentation.zip
