@@ -178,6 +178,7 @@ Lexer: Kivy                         | | Lexers/lexer.Kivy.zip
 Lexer: KiXtart                      | | Lexers/lexer.KiXtart.zip
 Lexer: Kotlin                       | | Lexers/lexer.Kotlin.zip
 Lexer: LaTeX                        | | Lexers/lexer.LaTeX.zip
+Lexer: LESS                         | | Lexers/lexer.LESS.zip
 Lexer: Lisp                         | | Lexers/lexer.Lisp.zip
 Lexer: LiveCode                     | | Lexers/lexer.LiveCode.zip
 Lexer: Log files                    | | Lexers/lexer.Logfiles.zip
@@ -239,6 +240,7 @@ Lexer: Sass                         | | Lexers/lexer.Sass.zip
 Lexer: Scala                        | | Lexers/lexer.Scala.zip
 Lexer: Scheme                       | | Lexers/lexer.Scheme.zip
 Lexer: Scilab                       | | Lexers/lexer.Scilab.zip
+Lexer: SCSS                         | | Lexers/lexer.SCSS.zip
 Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
 Lexer: SPIR                         | | Lexers/lexer.SPIR.zip
