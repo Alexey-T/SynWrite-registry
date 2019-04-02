@@ -200,6 +200,7 @@ Lexer: Nemerle                      | | Lexers/lexer.Nemerle.zip
 Lexer: NFO files                    | | Lexers/lexer.NFO_files.zip
 Lexer: Nginx                        | | Lexers/lexer.Nginx.zip
 Lexer: Nim                          | | Lexers/lexer.Nim.zip
+Lexer: Nix                          | | Lexers/lexer.Nix.zip
 Lexer: nnCron                       | | Lexers/lexer.nnCron.zip
 Lexer: NSIS                         | | Lexers/lexer.NSIS.zip
 Lexer: NSL Assembler                | | Lexers/lexer.NSL_Assembler.zip
