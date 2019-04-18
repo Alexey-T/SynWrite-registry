@@ -249,7 +249,6 @@ Lexer: SQL (Blue)                   | | Lexers/lexer.SQL_Blue.zip
 Lexer: SQL (White)                  | | Lexers/lexer.SQL_White.zip
 Lexer: Squirrel                     | | Lexers/lexer.Squirrel.zip
 Lexer: Standard ML                  | | Lexers/lexer.Standard_ML.zip
-Lexer: STAR                         | | Lexers/lexer.STAR.zip
 Lexer: Stata                        | | Lexers/lexer.Stata.zip
 Lexer: Strace                       | | Lexers/lexer.Strace.zip
 Lexer: Stylus                       | | Lexers/lexer.Stylus.zip
