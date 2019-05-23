@@ -158,6 +158,7 @@ Lexer: HTML Handlebars              | | Lexers/lexer.HTML_Handlebars.zip
 Lexer: HTML Laravel Blade           | | Lexers/lexer.HTML_Laravel_Blade.zip
 Lexer: HTML Mustache                | | Lexers/lexer.HTML_Mustache.zip
 Lexer: HTML Liquid                  | | Lexers/lexer.HTML_Liquid.zip
+Lexer: HTML Ruby-ERB                | | Lexers/lexer.HTML_Ruby-ERB.zip
 Lexer: HTML Smarty                  | | Lexers/lexer.HTML_Smarty.zip
 Lexer: IDL files                    | | Lexers/lexer.IDL_files.zip
 Lexer: IDL language                 | | Lexers/lexer.IDL_language.zip
