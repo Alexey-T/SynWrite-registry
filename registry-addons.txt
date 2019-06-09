@@ -89,6 +89,7 @@ Lexer: Assembly NASM x86            | | Lexers/lexer.Assembly_NASM_x86.zip
 Lexer: Assembly PowerPC             | | Lexers/lexer.Assembly_PowerPC.zip
 Lexer: Assembly SHARC DSP           | | Lexers/lexer.Assembly_SHARC_DSP.zip
 Lexer: Assembly SPARC               | | Lexers/lexer.Assembly_SPARC.zip
+Lexer: Assembly Z80 RGBDS           | | Lexers/lexer.Assembly_Z80_RGBDS.zip
 Lexer: Assembly Z80 SjASM           | | Lexers/lexer.Assembly_Z80_SjASM.zip
 Lexer: Asymptote                    | | Lexers/lexer.Asymptote.zip
 Lexer: Autoconf M4                  | | Lexers/lexer.Autoconf_M4.zip
