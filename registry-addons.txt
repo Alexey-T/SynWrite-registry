@@ -266,6 +266,7 @@ Lexer: TOML                         | | Lexers/lexer.TOML.zip
 Lexer: Tree                         | | Lexers/lexer.Tree.zip
 Lexer: Twig                         | | Lexers/lexer.Twig.zip
 Lexer: TypeScript                   | | Lexers/lexer.TypeScript.zip
+Lexer: V                            | | Lexers/lexer.V.zip
 Lexer: Vala                         | | Lexers/lexer.Vala.zip
 Lexer: Verilog HDL                  | | Lexers/lexer.Verilog_HDL.zip
 Lexer: VHDL                         | | Lexers/lexer.VHDL.zip
