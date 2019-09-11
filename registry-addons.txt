@@ -219,6 +219,7 @@ Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
 Lexer: Perl                         | | Lexers/lexer.Perl.zip
+Lexer: Perl 6                       | | Lexers/lexer.Perl_6.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
 Lexer: PKGBUILD                     | | Lexers/lexer.PKGBUILD.zip
