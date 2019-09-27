@@ -193,6 +193,7 @@ Lexer: MATLAB                       | | Lexers/lexer.MATLAB.zip
 Lexer: MediaWiki                    | | Lexers/lexer.MediaWiki.zip
 Lexer: Metafont                     | | Lexers/lexer.Metafont.zip
 Lexer: MIB files (SNMP protocol)    | | Lexers/lexer.MIB_files_(SNMP_protocol).zip
+Lexer: MikroTik Script              | | Lexers/lexer.MikroTik_Script.zip
 Lexer: MiniZinc                     | | Lexers/lexer.MiniZinc.zip
 Lexer: Modelica                     | | Lexers/lexer.Modelica.zip
 Lexer: Modula 2                     | | Lexers/lexer.Modula_2.zip
