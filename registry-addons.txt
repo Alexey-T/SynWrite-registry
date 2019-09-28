@@ -254,6 +254,7 @@ Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
 Lexer: Solidity                     | | Lexers/lexer.Solidity.zip
 Lexer: SPIR                         | | Lexers/lexer.SPIR.zip
+Lexer: SQL                          | | Lexers/lexer.SQL.zip
 Lexer: SQL (Blue)                   | | Lexers/lexer.SQL_Blue.zip
 Lexer: SQL (White)                  | | Lexers/lexer.SQL_White.zip
 Lexer: Squirrel                     | | Lexers/lexer.Squirrel.zip
