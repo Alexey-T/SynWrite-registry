@@ -232,6 +232,7 @@ Lexer: PostScript                   | | Lexers/lexer.PostScript.zip
 Lexer: Prolog                       | | Lexers/lexer.Prolog.zip
 Lexer: Pug                          | | Lexers/lexer.Pug.zip
 Lexer: Puppet                       | | Lexers/lexer.Puppet.zip
+Lexer: PyMOL                        | | Lexers/lexer.PyMOL.zip
 Lexer: R                            | | Lexers/lexer.R.zip
 Lexer: R Markdown                   | | Lexers/lexer.R_Markdown.zip
 Lexer: Racket                       | | Lexers/lexer.Racket.zip
