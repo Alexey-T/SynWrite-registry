@@ -140,6 +140,7 @@ Lexer: GDScript                     | | Lexers/lexer.GDScript.zip
 Lexer: Gherkin                      | | Lexers/lexer.Gherkin.zip
 Lexer: GHS MULTI IDE                | | Lexers/lexer.GHS_MULTI_IDE.zip
 Lexer: GLSL                         | | Lexers/lexer.GLSL.zip
+Lexer: Gnuplot                      | | Lexers/lexer.Gnuplot.zip
 Lexer: Go                           | | Lexers/lexer.Go.zip
 Lexer: Gold Parser                  | | Lexers/lexer.Gold_Parser.zip
 Lexer: Graphviz DOT                 | | Lexers/lexer.Graphviz_DOT.zip
