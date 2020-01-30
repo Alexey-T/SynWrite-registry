@@ -252,6 +252,7 @@ Lexer: Scala                        | | Lexers/lexer.Scala.zip
 Lexer: Scheme                       | | Lexers/lexer.Scheme.zip
 Lexer: Scilab                       | | Lexers/lexer.Scilab.zip
 Lexer: SCSS                         | | Lexers/lexer.SCSS.zip
+Lexer: SFZ                          | | Lexers/lexer.SFZ.zip
 Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
 Lexer: Solidity                     | | Lexers/lexer.Solidity.zip
