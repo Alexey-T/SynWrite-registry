@@ -221,6 +221,7 @@ Lexer: Org-mode                     | | Lexers/lexer.Org-mode.zip
 Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
+Lexer: PECmd script                 | | Lexers/lexer.PECmd_script.zip
 Lexer: Perl                         | | Lexers/lexer.Perl.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
