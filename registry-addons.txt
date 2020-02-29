@@ -219,6 +219,7 @@ Lexer: OpenEdge ABL                 | | Lexers/lexer.OpenEdge_ABL.zip
 Lexer: OpenSCAD                     | | Lexers/lexer.OpenSCAD.zip
 Lexer: Org-mode                     | | Lexers/lexer.Org-mode.zip
 Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
+Lexer: Pascal                       | | Lexers/lexer.Pascal.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
 Lexer: PECmd script                 | | Lexers/lexer.PECmd_script.zip
