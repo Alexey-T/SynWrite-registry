@@ -231,6 +231,7 @@ Lexer: PL/SQL                       | | Lexers/lexer.PL_SQL.zip
 Lexer: PlantUML                     | | Lexers/lexer.PlantUML.zip
 Lexer: Pony                         | | Lexers/lexer.Pony.zip
 Lexer: PostScript                   | | Lexers/lexer.PostScript.zip
+Lexer: Power Query M                | | Lexers/lexer.Power_Query_M.zip
 Lexer: PowerShell                   | | Lexers/lexer.PowerShell.zip
 Lexer: Prolog                       | | Lexers/lexer.Prolog.zip
 Lexer: Pug                          | | Lexers/lexer.Pug.zip
