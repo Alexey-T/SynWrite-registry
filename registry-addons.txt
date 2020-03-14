@@ -180,6 +180,7 @@ Lexer: Jsonnet                      | | Lexers/lexer.Jsonnet.zip
 Lexer: Julia                        | | Lexers/lexer.Julia.zip
 Lexer: Kivy                         | | Lexers/lexer.Kivy.zip
 Lexer: KiXtart                      | | Lexers/lexer.KiXtart.zip
+Lexer: Kontakt Script Processor     | | Lexers/lexer.Kontakt_Script_Processor.zip
 Lexer: Kotlin                       | | Lexers/lexer.Kotlin.zip
 Lexer: LaTeX                        | | Lexers/lexer.LaTeX.zip
 Lexer: LESS                         | | Lexers/lexer.LESS.zip
