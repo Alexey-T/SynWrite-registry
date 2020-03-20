@@ -263,6 +263,7 @@ Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
 Lexer: Solidity                     | | Lexers/lexer.Solidity.zip
 Lexer: SPICE                        | | Lexers/lexer.SPICE.zip
 Lexer: SPIR                         | | Lexers/lexer.SPIR.zip
+Lexer: SRT Subtitles                | | Lexers/lexer.SRT_Subtitles.zip
 Lexer: SQL                          | | Lexers/lexer.SQL.zip
 Lexer: SQL (Blue)                   | | Lexers/lexer.SQL_Blue.zip
 Lexer: SQL (White)                  | | Lexers/lexer.SQL_White.zip
