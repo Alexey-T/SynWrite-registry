@@ -98,6 +98,7 @@ Lexer: AutoIt                       | | Lexers/lexer.AutoIt.zip
 Lexer: Automake                     | | Lexers/lexer.Automake.zip
 Lexer: AviSynth                     | | Lexers/lexer.AviSynth.zip
 Lexer: AWK                          | | Lexers/lexer.AWK.zip
+Lexer: Ballerina                    | | Lexers/lexer.Ballerina.zip
 Lexer: BibTeX                       | | Lexers/lexer.BibTeX.zip
 Lexer: Bitsquid SJSON               | | Lexers/lexer.Bitsquid_SJSON.zip
 Lexer: Bohemia SQF                  | | Lexers/lexer.Bohemia_SQF.zip
@@ -258,9 +259,11 @@ Lexer: Scheme                       | | Lexers/lexer.Scheme.zip
 Lexer: Scilab                       | | Lexers/lexer.Scilab.zip
 Lexer: SCSS                         | | Lexers/lexer.SCSS.zip
 Lexer: SFZ                          | | Lexers/lexer.SFZ.zip
+Lexer: Singularity                  | | Lexers/lexer.Singularity.zip
 Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
 Lexer: Solidity                     | | Lexers/lexer.Solidity.zip
+Lexer: Specman                      | | Lexers/lexer.Specman.zip
 Lexer: SPICE                        | | Lexers/lexer.SPICE.zip
 Lexer: SPIR                         | | Lexers/lexer.SPIR.zip
 Lexer: SRT Subtitles                | | Lexers/lexer.SRT_Subtitles.zip
