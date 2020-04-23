@@ -252,6 +252,7 @@ Lexer: Rexx                         | | Lexers/lexer.Rexx.zip
 Lexer: RON                          | | Lexers/lexer.RON.zip
 Lexer: RPG IV                       | | Lexers/lexer.RPG_IV.zip
 Lexer: RTF                          | | Lexers/lexer.RTF.zip
+Lexer: Ruby                         | | Lexers/lexer.Ruby.zip
 Lexer: Rust                         | | Lexers/lexer.Rust.zip
 Lexer: Sass                         | | Lexers/lexer.Sass.zip
 Lexer: Scala                        | | Lexers/lexer.Scala.zip
