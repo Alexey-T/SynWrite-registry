@@ -136,6 +136,7 @@ Lexer: Forth                        | | Lexers/lexer.Forth.zip
 Lexer: Fortran                      | | Lexers/lexer.Fortran.zip
 Lexer: Fountain                     | | Lexers/lexer.Fountain.zip
 Lexer: FoxPro                       | | Lexers/lexer.FoxPro.zip
+Lexer: FreeBASIC                    | | Lexers/lexer.FreeBASIC.zip
 Lexer: GAMS                         | | Lexers/lexer.GAMS.zip
 Lexer: GDScript                     | | Lexers/lexer.GDScript.zip
 Lexer: Gherkin                      | | Lexers/lexer.Gherkin.zip
