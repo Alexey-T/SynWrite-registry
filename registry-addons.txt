@@ -87,6 +87,7 @@ Lexer: Assembly MIPS                | | Lexers/lexer.Assembly_MIPS.zip
 Lexer: Assembly Motorola 68k        | | Lexers/lexer.Assembly_Motorola_68k.zip
 Lexer: Assembly NASM x86            | | Lexers/lexer.Assembly_NASM_x86.zip
 Lexer: Assembly PowerPC             | | Lexers/lexer.Assembly_PowerPC.zip
+Lexer: Assembly RISC-V              | | Lexers/lexer.Assembly_RISC-V.zip
 Lexer: Assembly SHARC DSP           | | Lexers/lexer.Assembly_SHARC_DSP.zip
 Lexer: Assembly SPARC               | | Lexers/lexer.Assembly_SPARC.zip
 Lexer: Assembly Z80 RGBDS           | | Lexers/lexer.Assembly_Z80_RGBDS.zip
