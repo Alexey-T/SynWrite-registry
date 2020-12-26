@@ -265,6 +265,7 @@ Lexer: SFZ                          | | Lexers/lexer.SFZ.zip
 Lexer: Singularity                  | | Lexers/lexer.Singularity.zip
 Lexer: Slim                         | | Lexers/lexer.Slim.zip
 Lexer: Smalltalk                    | | Lexers/lexer.Smalltalk.zip
+Lexer: Snowflake SQL                | | Lexers/lexer.Snowflake_SQL.zip
 Lexer: Solidity                     | | Lexers/lexer.Solidity.zip
 Lexer: Specman                      | | Lexers/lexer.Specman.zip
 Lexer: SPICE                        | | Lexers/lexer.SPICE.zip
