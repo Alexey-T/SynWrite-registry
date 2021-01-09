@@ -90,6 +90,7 @@ Lexer: Assembly PowerPC             | | Lexers/lexer.Assembly_PowerPC.zip
 Lexer: Assembly RISC-V              | | Lexers/lexer.Assembly_RISC-V.zip
 Lexer: Assembly SHARC DSP           | | Lexers/lexer.Assembly_SHARC_DSP.zip
 Lexer: Assembly SPARC               | | Lexers/lexer.Assembly_SPARC.zip
+Lexer: Assembly STM32               | | Lexers/lexer.Assembly_STM32.zip
 Lexer: Assembly Z80 RGBDS           | | Lexers/lexer.Assembly_Z80_RGBDS.zip
 Lexer: Assembly Z80 SjASM           | | Lexers/lexer.Assembly_Z80_SjASM.zip
 Lexer: Asymptote                    | | Lexers/lexer.Asymptote.zip
