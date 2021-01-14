@@ -196,6 +196,7 @@ Lexer: Lola-2                       | | Lexers/lexer.Lola-2.zip
 Lexer: LS-DYNA                      | | Lexers/lexer.LS-DYNA.zip
 Lexer: MacroScript (Macro Sheduler) | | Lexers/lexer.MacroScript_(Macro_Sheduler).zip
 Lexer: MATLAB                       | | Lexers/lexer.MATLAB.zip
+Lexer: Maya                         | | Lexers/lexer.Maya.zip
 Lexer: MediaWiki                    | | Lexers/lexer.MediaWiki.zip
 Lexer: Metafont                     | | Lexers/lexer.Metafont.zip
 Lexer: MIB files (SNMP protocol)    | | Lexers/lexer.MIB_files_(SNMP_protocol).zip
