@@ -297,6 +297,7 @@ Lexer: Twig                         | | Lexers/lexer.Twig.zip
 Lexer: TypeScript                   | | Lexers/lexer.TypeScript.zip
 Lexer: V                            | | Lexers/lexer.V.zip
 Lexer: Vala                         | | Lexers/lexer.Vala.zip
+Lexer: VBScript                     | | Lexers/lexer.VBScript.zip
 Lexer: Verilog HDL                  | | Lexers/lexer.Verilog_HDL.zip
 Lexer: VHDL                         | | Lexers/lexer.VHDL.zip
 Lexer: VimL                         | | Lexers/lexer.VimL.zip
