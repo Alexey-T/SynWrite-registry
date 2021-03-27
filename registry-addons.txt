@@ -197,6 +197,7 @@ Lexer: Logstash DSL                 | | Lexers/lexer.Logstash_DSL.zip
 Lexer: Lola-2                       | | Lexers/lexer.Lola-2.zip
 Lexer: LS-DYNA                      | | Lexers/lexer.LS-DYNA.zip
 Lexer: MacroScript (Macro Sheduler) | | Lexers/lexer.MacroScript_(Macro_Sheduler).zip
+Lexer: Makefile                     | | Lexers/lexer.Makefile.zip
 Lexer: MATLAB                       | | Lexers/lexer.MATLAB.zip
 Lexer: Maya                         | | Lexers/lexer.Maya.zip
 Lexer: MediaWiki                    | | Lexers/lexer.MediaWiki.zip
