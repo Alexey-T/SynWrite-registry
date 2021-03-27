@@ -244,6 +244,7 @@ Lexer: PostScript                   | | Lexers/lexer.PostScript.zip
 Lexer: Power Query M                | | Lexers/lexer.Power_Query_M.zip
 Lexer: PowerShell                   | | Lexers/lexer.PowerShell.zip
 Lexer: Prolog                       | | Lexers/lexer.Prolog.zip
+Lexer: Properties                   | | Lexers/lexer.Properties.zip
 Lexer: Pug                          | | Lexers/lexer.Pug.zip
 Lexer: Puppet                       | | Lexers/lexer.Puppet.zip
 Lexer: PyMOL                        | | Lexers/lexer.PyMOL.zip
