@@ -201,6 +201,7 @@ Lexer: Makefile                     | | Lexers/lexer.Makefile.zip
 Lexer: MATLAB                       | | Lexers/lexer.MATLAB.zip
 Lexer: Maya                         | | Lexers/lexer.Maya.zip
 Lexer: MediaWiki                    | | Lexers/lexer.MediaWiki.zip
+Lexer: Meson                        | | Lexers/lexer.Meson.zip
 Lexer: Metafont                     | | Lexers/lexer.Metafont.zip
 Lexer: MIB files (SNMP protocol)    | | Lexers/lexer.MIB_files_(SNMP_protocol).zip
 Lexer: MikroTik Script              | | Lexers/lexer.MikroTik_Script.zip
