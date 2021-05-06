@@ -175,7 +175,6 @@ Lexer: Informix 4GL                 | | Lexers/lexer.Informix_4GL.zip
 Lexer: Inno Setup                   | | Lexers/lexer.Inno_Setup.zip
 Lexer: Intel HEX                    | | Lexers/lexer.Intel_HEX.zip
 Lexer: Jade                         | | Lexers/lexer.Jade.zip
-Lexer: Jamfile                      | | Lexers/lexer.Jamfile.zip
 Lexer: Jasmine JVM Assembler        | | Lexers/lexer.Jasmine_JVM_Assembler.zip
 Lexer: Java                         | | Lexers/lexer.Java.zip
 Lexer: Java Velocity                | | Lexers/lexer.Java_Velocity.zip
@@ -235,6 +234,7 @@ Lexer: Pascal                       | | Lexers/lexer.Pascal.zip
 Lexer: Pawn                         | | Lexers/lexer.Pawn.zip
 Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
 Lexer: PECmd script                 | | Lexers/lexer.PECmd_script.zip
+Lexer: Perforce Jam                 | | Lexers/lexer.Perforce_Jam.zip
 Lexer: Perl                         | | Lexers/lexer.Perl.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
