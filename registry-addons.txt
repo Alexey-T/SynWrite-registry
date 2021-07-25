@@ -250,6 +250,7 @@ Lexer: Properties                   | | Lexers/lexer.Properties.zip
 Lexer: Pug                          | | Lexers/lexer.Pug.zip
 Lexer: Puppet                       | | Lexers/lexer.Puppet.zip
 Lexer: PyMOL                        | | Lexers/lexer.PyMOL.zip
+Lexer: QML                          | | Lexers/lexer.QML.zip
 Lexer: R                            | | Lexers/lexer.R.zip
 Lexer: R Markdown                   | | Lexers/lexer.R_Markdown.zip
 Lexer: Racket                       | | Lexers/lexer.Racket.zip
