@@ -64,6 +64,7 @@ Intext Bookmarks | Manager of permanent (comments) bookmarks | PyPlugins/plugin.
 Js Format | Formats JavaScript and JSON source code | PyPlugins/plugin.Alexey.JsFormat.zip
 Js Minifier | Makes JavaScript code more compact ("minify" it) | PyPlugins/plugin.Alexey.JsMinifier.zip
 Keymap Report | Shows detailed report about Synwrite keymapping | PyPlugins/plugin.kvichans.KeymapReport.zip
+Lexer: 1C                           | | Lexers/lexer.1C.zip
 Lexer: ABAP                         | | Lexers/lexer.ABAP.zip
 Lexer: Abaqus Keywords              | | Lexers/lexer.Abaqus_Keywords.zip
 Lexer: ABC Notation                 | | Lexers/lexer.ABC_Notation.zip
@@ -223,7 +224,6 @@ Lexer: NSIS                         | | Lexers/lexer.NSIS.zip
 Lexer: NSL Assembler                | | Lexers/lexer.NSL_Assembler.zip
 Lexer: Oberon                       | | Lexers/lexer.Oberon.zip
 Lexer: Objective-C                  | | Lexers/lexer.Objective-C.zip
-Lexer: OneC (1C)                    | | Lexers/lexer.OneC_(1C).zip
 Lexer: OpenCL                       | | Lexers/lexer.OpenCL.zip
 Lexer: OpenEdge ABL                 | | Lexers/lexer.OpenEdge_ABL.zip
 Lexer: OpenSCAD                     | | Lexers/lexer.OpenSCAD.zip
