@@ -120,6 +120,7 @@ Lexer: Cobol                        | | Lexers/lexer.Cobol.zip
 Lexer: CodeVisionAVR                | | Lexers/lexer.CodeVisionAVR.zip
 Lexer: CoffeeScript                 | | Lexers/lexer.CoffeeScript.zip
 Lexer: ColdFusion                   | | Lexers/lexer.ColdFusion.zip
+Lexer: Coq                          | | Lexers/lexer.Coq.zip
 Lexer: CRF files                    | | Lexers/lexer.CRF.zip
 Lexer: Crystal                      | | Lexers/lexer.Crystal.zip
 Lexer: CUDA C++                     | | Lexers/lexer.CUDA_C%2B%2B.zip
