@@ -104,6 +104,7 @@ Lexer: AviSynth                     | | Lexers/lexer.AviSynth.zip
 Lexer: AWK                          | | Lexers/lexer.AWK.zip
 Lexer: Ballerina                    | | Lexers/lexer.Ballerina.zip
 Lexer: BibTeX                       | | Lexers/lexer.BibTeX.zip
+Lexer: Bicep                        | | Lexers/lexer.Bicep.zip
 Lexer: Bitsquid SJSON               | | Lexers/lexer.Bitsquid_SJSON.zip
 Lexer: Bohemia SQF                  | | Lexers/lexer.Bohemia_SQF.zip
 Lexer: Boo                          | | Lexers/lexer.Boo.zip
