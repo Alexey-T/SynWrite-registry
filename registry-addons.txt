@@ -264,6 +264,7 @@ Lexer: Ragel                        | | Lexers/lexer.Ragel.zip
 Lexer: Raku                         | | Lexers/lexer.Raku.zip
 Lexer: Razor                        | | Lexers/lexer.Razor.zip
 Lexer: ReasonML                     | | Lexers/lexer.ReasonML.zip
+Lexer: Red                          | | Lexers/lexer.Red.zip
 Lexer: Regular expressions          | | Lexers/lexer.Regular_expressions.zip
 Lexer: reStructuredText             | | Lexers/lexer.reStructuredText.zip
 Lexer: Rexx                         | | Lexers/lexer.Rexx.zip
