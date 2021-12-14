@@ -102,6 +102,7 @@ Lexer: Autoconf M4                  | | Lexers/lexer.Autoconf_M4.zip
 Lexer: AutoHotkey                   | | Lexers/lexer.AutoHotkey.zip
 Lexer: AutoIt                       | | Lexers/lexer.AutoIt.zip
 Lexer: Automake                     | | Lexers/lexer.Automake.zip
+Lexer: Automation Basic             | | Lexers/lexer.Automation_Basic.zip
 Lexer: AviSynth                     | | Lexers/lexer.AviSynth.zip
 Lexer: AWK                          | | Lexers/lexer.AWK.zip
 Lexer: Ballerina                    | | Lexers/lexer.Ballerina.zip
