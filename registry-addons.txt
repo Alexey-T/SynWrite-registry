@@ -85,6 +85,7 @@ Lexer: AsciiDoc                     | | Lexers/lexer.AsciiDoc.zip
 Lexer: Assembly ARM                 | | Lexers/lexer.Assembly_ARM.zip
 Lexer: Assembly AVR                 | | Lexers/lexer.Assembly_AVR.zip
 Lexer: Assembly FASM                | | Lexers/lexer.Assembly_FASM.zip
+Lexer: Assembly GNU AS              | | Lexers/lexer.Assembly_GNU_AS.zip
 Lexer: Assembly JWASM               | | Lexers/lexer.Assembly_JWASM.zip
 Lexer: Assembly MASM x86            | | Lexers/lexer.Assembly_MASM_x86.zip
 Lexer: Assembly MIPS                | | Lexers/lexer.Assembly_MIPS.zip
