@@ -131,6 +131,7 @@ Lexer: Crystal                      | | Lexers/lexer.Crystal.zip
 Lexer: CUDA C++                     | | Lexers/lexer.CUDA_C%2B%2B.zip
 Lexer: Cython                       | | Lexers/lexer.Cython.zip
 Lexer: D                            | | Lexers/lexer.D.zip
+Lexer: Dalvik bytecode              | | Lexers/lexer.Dalvik_bytecode.zip
 Lexer: Dart                         | | Lexers/lexer.Dart.zip
 Lexer: Delphi resources             | | Lexers/lexer.Delphi_resources.zip
 Lexer: Dhall                        | | Lexers/lexer.Dhall.zip
