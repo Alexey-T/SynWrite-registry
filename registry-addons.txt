@@ -160,6 +160,7 @@ Lexer: GNU linker                   | | Lexers/lexer.GNU_linker.zip
 Lexer: Gnuplot                      | | Lexers/lexer.Gnuplot.zip
 Lexer: Go                           | | Lexers/lexer.Go.zip
 Lexer: Gold Parser                  | | Lexers/lexer.Gold_Parser.zip
+Lexer: Grails Server Pages          | | Lexers/lexer.Grails_Server_Pages.zip
 Lexer: Graphviz DOT                 | | Lexers/lexer.Graphviz_DOT.zip
 Lexer: GraphQL                      | | Lexers/lexer.GraphQL.zip
 Lexer: Great Cow Basic              | | Lexers/lexer.Great_Cow_Basic.zip
