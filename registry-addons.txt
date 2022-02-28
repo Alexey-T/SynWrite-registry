@@ -137,6 +137,7 @@ Lexer: Delphi resources             | | Lexers/lexer.Delphi_resources.zip
 Lexer: Dhall                        | | Lexers/lexer.Dhall.zip
 Lexer: Dockerfile                   | | Lexers/lexer.Dockerfile.zip
 Lexer: DOORS DXL                    | | Lexers/lexer.DOORS_DXL.zip
+Lexer: DotENV                       | | Lexers/lexer.DotENV.zip
 Lexer: Eiffel                       | | Lexers/lexer.Eiffel.zip
 Lexer: Elixir                       | | Lexers/lexer.Elixir.zip
 Lexer: Elm                          | | Lexers/lexer.Elm.zip
