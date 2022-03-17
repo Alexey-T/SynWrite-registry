@@ -153,6 +153,7 @@ Lexer: Fountain                     | | Lexers/lexer.Fountain.zip
 Lexer: FoxPro                       | | Lexers/lexer.FoxPro.zip
 Lexer: FreeBASIC                    | | Lexers/lexer.FreeBASIC.zip
 Lexer: GAMS                         | | Lexers/lexer.GAMS.zip
+Lexer: Gemini                       | | Lexers/lexer.Gemini.zip
 Lexer: GDScript                     | | Lexers/lexer.GDScript.zip
 Lexer: Gherkin                      | | Lexers/lexer.Gherkin.zip
 Lexer: GHS MULTI IDE                | | Lexers/lexer.GHS_MULTI_IDE.zip
