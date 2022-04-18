@@ -222,7 +222,7 @@ Lexer: MIB files (SNMP protocol)    | | Lexers/lexer.MIB_files_(SNMP_protocol).z
 Lexer: MikroTik Script              | | Lexers/lexer.MikroTik_Script.zip
 Lexer: MiniZinc                     | | Lexers/lexer.MiniZinc.zip
 Lexer: Modelica                     | | Lexers/lexer.Modelica.zip
-Lexer: Modula 2                     | | Lexers/lexer.Modula_2.zip
+Lexer: Modula-2                     | | Lexers/lexer.Modula-2.zip
 Lexer: Monkey                       | | Lexers/lexer.Monkey.zip
 Lexer: MSVS Solution                | | Lexers/lexer.MSVS_Solution.zip
 Lexer: MusicBrainz Picard Tagger Script | | Lexers/lexer.MusicBrainz_Picard_Tagger_Script.zip
