@@ -73,8 +73,9 @@ Lexer: Acu Cobol                    | | Lexers/lexer.Acu_Cobol.zip
 Lexer: Ada                          | | Lexers/lexer.Ada.zip
 Lexer: Adobe Flash                  | | Lexers/lexer.Adobe_Flash.zip
 Lexer: Amazon Ion                   | | Lexers/lexer.Amazon_Ion.zip
-Lexer: AngelScript                  | | Lexers/lexer.AngelScript.zip
 Lexer: AMPL                         | | Lexers/lexer.AMPL.zip
+Lexer: AngelScript                  | | Lexers/lexer.AngelScript.zip
+Lexer: ANTLR                        | | Lexers/lexer.ANTLR.zip
 Lexer: Apache config                | | Lexers/lexer.Apache_config.zip
 Lexer: Apache Hive                  | | Lexers/lexer.Apache_Hive.zip
 Lexer: Apache Pig                   | | Lexers/lexer.Apache_Pig.zip
