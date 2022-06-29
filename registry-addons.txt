@@ -172,6 +172,7 @@ Lexer: Groovy                       | | Lexers/lexer.Groovy.zip
 Lexer: Grub4Dos                     | | Lexers/lexer.Grub4Dos.zip
 Lexer: Haml                         | | Lexers/lexer.Haml.zip
 Lexer: Harbour                      | | Lexers/lexer.Harbour.zip
+Lexer: Hare                         | | Lexers/lexer.Hare.zip
 Lexer: Haskell                      | | Lexers/lexer.Haskell.zip
 Lexer: Haxe                         | | Lexers/lexer.Haxe.zip
 Lexer: HJSON                        | | Lexers/lexer.HJSON.zip
