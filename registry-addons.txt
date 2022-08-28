@@ -242,6 +242,7 @@ Lexer: NSIS                         | | Lexers/lexer.NSIS.zip
 Lexer: NSL Assembler                | | Lexers/lexer.NSL_Assembler.zip
 Lexer: Oberon                       | | Lexers/lexer.Oberon.zip
 Lexer: Objective-C                  | | Lexers/lexer.Objective-C.zip
+Lexer: Odin                         | | Lexers/lexer.Odin.zip
 Lexer: OpenCL                       | | Lexers/lexer.OpenCL.zip
 Lexer: OpenEdge ABL                 | | Lexers/lexer.OpenEdge_ABL.zip
 Lexer: OpenSCAD                     | | Lexers/lexer.OpenSCAD.zip
