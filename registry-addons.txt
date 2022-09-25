@@ -149,6 +149,7 @@ Lexer: Euphoria                     | | Lexers/lexer.Euphoria.zip
 Lexer: F#                           | | Lexers/lexer.F%23.zip
 Lexer: Factor                       | | Lexers/lexer.Factor.zip
 Lexer: Falcon                       | | Lexers/lexer.Falcon.zip
+Lexer: Felix                        | | Lexers/lexer.Felix.zip
 Lexer: Fish                         | | Lexers/lexer.Fish.zip
 Lexer: Forth                        | | Lexers/lexer.Forth.zip
 Lexer: Fortran                      | | Lexers/lexer.Fortran.zip
