@@ -234,6 +234,7 @@ Lexer: MSVS Solution                | | Lexers/lexer.MSVS_Solution.zip
 Lexer: MusicBrainz Picard Tagger Script | | Lexers/lexer.MusicBrainz_Picard_Tagger_Script.zip
 Lexer: MySQL SQL                    | | Lexers/lexer.MySQL_SQL.zip
 Lexer: MySQL Stored Procedures      | | Lexers/lexer.MySQL_Stored_Procedures.zip
+Lexer: Nelua                        | | Lexers/lexer.Nelua.zip
 Lexer: Nemerle                      | | Lexers/lexer.Nemerle.zip
 Lexer: NFO files                    | | Lexers/lexer.NFO_files.zip
 Lexer: Nginx                        | | Lexers/lexer.Nginx.zip
