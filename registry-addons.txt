@@ -138,6 +138,7 @@ Lexer: Dalvik bytecode              | | Lexers/lexer.Dalvik_bytecode.zip
 Lexer: Dart                         | | Lexers/lexer.Dart.zip
 Lexer: Delphi resources             | | Lexers/lexer.Delphi_resources.zip
 Lexer: Dhall                        | | Lexers/lexer.Dhall.zip
+Lexer: Dictu                        | | Lexers/lexer.Dictu.zip
 Lexer: Dockerfile                   | | Lexers/lexer.Dockerfile.zip
 Lexer: DOORS DXL                    | | Lexers/lexer.DOORS_DXL.zip
 Lexer: DotENV                       | | Lexers/lexer.DotENV.zip
