@@ -247,6 +247,7 @@ Lexer: nnCron                       | | Lexers/lexer.nnCron.zip
 Lexer: NSIS                         | | Lexers/lexer.NSIS.zip
 Lexer: NSL Assembler                | | Lexers/lexer.NSL_Assembler.zip
 Lexer: Oberon                       | | Lexers/lexer.Oberon.zip
+Lexer: Objeck                       | | Lexers/lexer.Objeck.zip
 Lexer: Objective-C                  | | Lexers/lexer.Objective-C.zip
 Lexer: Odin                         | | Lexers/lexer.Odin.zip
 Lexer: OpenCL                       | | Lexers/lexer.OpenCL.zip
