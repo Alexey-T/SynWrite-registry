@@ -71,6 +71,7 @@ Lexer: ABC Notation                 | | Lexers/lexer.ABC_Notation.zip
 Lexer: ActionScript                 | | Lexers/lexer.ActionScript.zip
 Lexer: Acu Cobol                    | | Lexers/lexer.Acu_Cobol.zip
 Lexer: Ada                          | | Lexers/lexer.Ada.zip
+Lexer: Adept                        | | Lexers/lexer.Adept.zip
 Lexer: Adobe Flash                  | | Lexers/lexer.Adobe_Flash.zip
 Lexer: Amazon Ion                   | | Lexers/lexer.Amazon_Ion.zip
 Lexer: AMPL                         | | Lexers/lexer.AMPL.zip
