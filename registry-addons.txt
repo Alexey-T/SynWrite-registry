@@ -346,6 +346,7 @@ Lexer: Virgil                       | | Lexers/lexer.Virgil.zip
 Lexer: Visual Basic                 | | Lexers/lexer.Visual_Basic.zip
 Lexer: Visual dBase                 | | Lexers/lexer.Visual_dBase.zip
 Lexer: VRML                         | | Lexers/lexer.VRML.zip
+Lexer: WGSL                         | | Lexers/lexer.WGSL.zip
 Lexer: WikidPad                     | | Lexers/lexer.WikidPad.zip
 Lexer: WinBuilder script            | | Lexers/lexer.WinBuilder_script.zip
 Lexer: Windows Resource Script      | | Lexers/lexer.Windows_Resource_Script.zip
