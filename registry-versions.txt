@@ -99,4 +99,3 @@ Linter: GoVet=1.0.0
 Linter: GoType=1.0.0
 Linter: Lua=1.0.0
 
-
