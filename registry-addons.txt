@@ -267,6 +267,7 @@ Lexer: PAX Pascal                   | | Lexers/lexer.PAX_Pascal.zip
 Lexer: PECmd script                 | | Lexers/lexer.PECmd_script.zip
 Lexer: Perforce Jam                 | | Lexers/lexer.Perforce_Jam.zip
 Lexer: Perl                         | | Lexers/lexer.Perl.zip
+Lexer: PHP                          | | Lexers/lexer.PHP.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
 Lexer: PKGBUILD                     | | Lexers/lexer.PKGBUILD.zip
