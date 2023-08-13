@@ -270,6 +270,7 @@ Lexer: Perl                         | | Lexers/lexer.Perl.zip
 Lexer: PHP                          | | Lexers/lexer.PHP.zip
 Lexer: PICL                         | | Lexers/lexer.PICL.zip
 Lexer: Pike                         | | Lexers/lexer.Pike.zip
+Lexer: Pixilang                     | | Lexers/lexer.Pixilang.zip
 Lexer: PKGBUILD                     | | Lexers/lexer.PKGBUILD.zip
 Lexer: PL/SQL                       | | Lexers/lexer.PL_SQL.zip
 Lexer: PlantUML                     | | Lexers/lexer.PlantUML.zip
