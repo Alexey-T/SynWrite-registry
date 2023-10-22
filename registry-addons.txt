@@ -237,6 +237,7 @@ Lexer: MiniZinc                     | | Lexers/lexer.MiniZinc.zip
 Lexer: Modelica                     | | Lexers/lexer.Modelica.zip
 Lexer: Modula-2                     | | Lexers/lexer.Modula-2.zip
 Lexer: Modula-3                     | | Lexers/lexer.Modula-3.zip
+Lexer: Mojo                         | | Lexers/lexer.Mojo.zip
 Lexer: Monkey                       | | Lexers/lexer.Monkey.zip
 Lexer: MSVS Solution                | | Lexers/lexer.MSVS_Solution.zip
 Lexer: MusicBrainz Picard Tagger Script | | Lexers/lexer.MusicBrainz_Picard_Tagger_Script.zip
