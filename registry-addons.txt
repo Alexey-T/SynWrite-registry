@@ -330,6 +330,7 @@ Lexer: Strace                       | | Lexers/lexer.Strace.zip
 Lexer: Stylus                       | | Lexers/lexer.Stylus.zip
 Lexer: Svelte                       | | Lexers/lexer.Svelte.zip
 Lexer: Swift                        | | Lexers/lexer.Swift.zip
+Lexer: SystemTap                    | | Lexers/lexer.SystemTap.zip
 Lexer: T-SQL                        | | Lexers/lexer.T-SQL.zip
 Lexer: TAGML                        | | Lexers/lexer.TAGML.zip
 Lexer: TakeCommand                  | | Lexers/lexer.TakeCommand.zip
