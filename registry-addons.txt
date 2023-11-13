@@ -339,6 +339,7 @@ Lexer: Textile                      | | Lexers/lexer.Textile.zip
 Lexer: Text Russian detector        | | Lexers/lexer.Text_Russian_detector.zip
 Lexer: Text with indentation        | | Lexers/lexer.Text_with_indentation.zip
 Lexer: ToDo                         | | Lexers/lexer.ToDo.zip
+Lexer: Todo.txt                     | | Lexers/lexer.Todo.txt.zip
 Lexer: TOML                         | | Lexers/lexer.TOML.zip
 Lexer: Tree                         | | Lexers/lexer.Tree.zip
 Lexer: Twig                         | | Lexers/lexer.Twig.zip
