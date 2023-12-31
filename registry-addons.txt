@@ -183,6 +183,7 @@ Lexer: Hare                         | | Lexers/lexer.Hare.zip
 Lexer: Haskell                      | | Lexers/lexer.Haskell.zip
 Lexer: Haxe                         | | Lexers/lexer.Haxe.zip
 Lexer: HCL                          | | Lexers/lexer.HCL.zip
+Lexer: Heta                         | | Lexers/lexer.Heta.zip
 Lexer: HJSON                        | | Lexers/lexer.HJSON.zip
 Lexer: HLSL                         | | Lexers/lexer.HLSL.zip
 Lexer: HTML Diafan                  | | Lexers/lexer.HTML_Diafan.zip
