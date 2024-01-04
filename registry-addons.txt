@@ -352,7 +352,7 @@ Lexer: Vala                         | | Lexers/lexer.Vala.zip
 Lexer: VBScript                     | | Lexers/lexer.VBScript.zip
 Lexer: Verilog HDL                  | | Lexers/lexer.Verilog_HDL.zip
 Lexer: VHDL                         | | Lexers/lexer.VHDL.zip
-Lexer: VimL                         | | Lexers/lexer.VimL.zip
+Lexer: Vimscript                    | | Lexers/lexer.Vimscript.zip
 Lexer: Virgil                       | | Lexers/lexer.Virgil.zip
 Lexer: Visual Basic                 | | Lexers/lexer.Visual_Basic.zip
 Lexer: Visual dBase                 | | Lexers/lexer.Visual_dBase.zip
