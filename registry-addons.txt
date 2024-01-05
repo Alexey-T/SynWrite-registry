@@ -299,6 +299,7 @@ Lexer: Razor                        | | Lexers/lexer.Razor.zip
 Lexer: ReasonML                     | | Lexers/lexer.ReasonML.zip
 Lexer: Red                          | | Lexers/lexer.Red.zip
 Lexer: Regular expressions          | | Lexers/lexer.Regular_expressions.zip
+Lexer: ReScript                     | | Lexers/lexer.ReScript.zip
 Lexer: reStructuredText             | | Lexers/lexer.reStructuredText.zip
 Lexer: Rexx                         | | Lexers/lexer.Rexx.zip
 Lexer: RON                          | | Lexers/lexer.RON.zip
