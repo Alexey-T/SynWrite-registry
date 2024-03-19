@@ -302,6 +302,7 @@ Lexer: Regular expressions          | | Lexers/lexer.Regular_expressions.zip
 Lexer: ReScript                     | | Lexers/lexer.ReScript.zip
 Lexer: reStructuredText             | | Lexers/lexer.reStructuredText.zip
 Lexer: Rexx                         | | Lexers/lexer.Rexx.zip
+Lexer: Roc                          | | Lexers/lexer.Roc.zip
 Lexer: RON                          | | Lexers/lexer.RON.zip
 Lexer: RPG IV                       | | Lexers/lexer.RPG_IV.zip
 Lexer: RTF                          | | Lexers/lexer.RTF.zip
