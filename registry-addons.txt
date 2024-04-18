@@ -119,7 +119,6 @@ Lexer: Boo                          | | Lexers/lexer.Boo.zip
 Lexer: Brainfuck                    | | Lexers/lexer.Brainfuck.zip
 Lexer: C#                           | | Lexers/lexer.C%23.zip
 Lexer: Caffe Prototxt               | | Lexers/lexer.Caffe_Prototxt.zip
-Lexer: Caml                         | | Lexers/lexer.Caml.zip
 Lexer: Carbon                       | | Lexers/lexer.Carbon.zip
 Lexer: Clarion                      | | Lexers/lexer.Clarion.zip
 Lexer: Clavier                      | | Lexers/lexer.Clavier.zip
@@ -257,6 +256,7 @@ Lexer: NSL Assembler                | | Lexers/lexer.NSL_Assembler.zip
 Lexer: Oberon                       | | Lexers/lexer.Oberon.zip
 Lexer: Objeck                       | | Lexers/lexer.Objeck.zip
 Lexer: Objective-C                  | | Lexers/lexer.Objective-C.zip
+Lexer: OCaml                        | | Lexers/lexer.OCaml.zip
 Lexer: Odin                         | | Lexers/lexer.Odin.zip
 Lexer: OpenCL                       | | Lexers/lexer.OpenCL.zip
 Lexer: OpenEdge ABL                 | | Lexers/lexer.OpenEdge_ABL.zip
