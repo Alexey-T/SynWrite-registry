@@ -166,6 +166,7 @@ Lexer: Gemini                       | | Lexers/lexer.Gemini.zip
 Lexer: GDScript                     | | Lexers/lexer.GDScript.zip
 Lexer: Gherkin                      | | Lexers/lexer.Gherkin.zip
 Lexer: GHS MULTI IDE                | | Lexers/lexer.GHS_MULTI_IDE.zip
+Lexer: Gleam                        | | Lexers/lexer.Gleam.zip
 Lexer: GLSL                         | | Lexers/lexer.GLSL.zip
 Lexer: GNU linker                   | | Lexers/lexer.GNU_linker.zip
 Lexer: Gnuplot                      | | Lexers/lexer.Gnuplot.zip
