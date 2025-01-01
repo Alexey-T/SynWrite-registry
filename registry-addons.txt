@@ -290,6 +290,7 @@ Lexer: Properties                   | | Lexers/lexer.Properties.zip
 Lexer: Protocol Buffers             | | Lexers/lexer.Protocol_Buffers.zip
 Lexer: Pug                          | | Lexers/lexer.Pug.zip
 Lexer: Puppet                       | | Lexers/lexer.Puppet.zip
+Lexer: PureBasic                    | | Lexers/lexer.PureBasic.zip
 Lexer: PureScript                   | | Lexers/lexer.PureScript.zip
 Lexer: PyMOL                        | | Lexers/lexer.PyMOL.zip
 Lexer: Pyret                        | | Lexers/lexer.Pyret.zip
