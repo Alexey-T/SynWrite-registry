@@ -265,6 +265,7 @@ Lexer: OpenCL                       | | Lexers/lexer.OpenCL.zip
 Lexer: OpenEdge ABL                 | | Lexers/lexer.OpenEdge_ABL.zip
 Lexer: OpenSCAD                     | | Lexers/lexer.OpenSCAD.zip
 Lexer: Org-mode                     | | Lexers/lexer.Org-mode.zip
+Lexer: P4                           | | Lexers/lexer.P4.zip
 Lexer: Papyrus                      | | Lexers/lexer.Papyrus.zip
 Lexer: Parser3                      | | Lexers/lexer.Parser3.zip
 Lexer: Pascal                       | | Lexers/lexer.Pascal.zip
