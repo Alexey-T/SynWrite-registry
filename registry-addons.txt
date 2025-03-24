@@ -357,6 +357,7 @@ Lexer: TOML                         | | Lexers/lexer.TOML.zip
 Lexer: Tree                         | | Lexers/lexer.Tree.zip
 Lexer: Twig                         | | Lexers/lexer.Twig.zip
 Lexer: TypeScript                   | | Lexers/lexer.TypeScript.zip
+Lexer: Typst                        | | Lexers/lexer.Typst.zip
 Lexer: Umka                         | | Lexers/lexer.Umka.zip
 Lexer: V                            | | Lexers/lexer.V.zip
 Lexer: Vala                         | | Lexers/lexer.Vala.zip
