@@ -202,6 +202,7 @@ Lexer: IDL language                 | | Lexers/lexer.IDL_language.zip
 Lexer: Informix 4GL                 | | Lexers/lexer.Informix_4GL.zip
 Lexer: Inno Setup                   | | Lexers/lexer.Inno_Setup.zip
 Lexer: Intel HEX                    | | Lexers/lexer.Intel_HEX.zip
+Lexer: Intel ISPC                   | | Lexers/lexer.Intel_ISPC.zip
 Lexer: Jade                         | | Lexers/lexer.Jade.zip
 Lexer: Janet                        | | Lexers/lexer.Janet.zip
 Lexer: Jasmine JVM Assembler        | | Lexers/lexer.Jasmine_JVM_Assembler.zip
