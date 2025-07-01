@@ -111,6 +111,7 @@ Lexer: Automation Basic             | | Lexers/lexer.Automation_Basic.zip
 Lexer: AviSynth                     | | Lexers/lexer.AviSynth.zip
 Lexer: AWK                          | | Lexers/lexer.AWK.zip
 Lexer: Ballerina                    | | Lexers/lexer.Ballerina.zip
+Lexer: Bazelrc                      | | Lexers/lexer.Bazelrc.zip
 Lexer: BibTeX                       | | Lexers/lexer.BibTeX.zip
 Lexer: Bicep                        | | Lexers/lexer.Bicep.zip
 Lexer: Bitsquid SJSON               | | Lexers/lexer.Bitsquid_SJSON.zip
