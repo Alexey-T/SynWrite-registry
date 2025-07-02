@@ -121,6 +121,7 @@ Lexer: Boo                          | | Lexers/lexer.Boo.zip
 Lexer: Brainfuck                    | | Lexers/lexer.Brainfuck.zip
 Lexer: C#                           | | Lexers/lexer.C%23.zip
 Lexer: Caffe Prototxt               | | Lexers/lexer.Caffe_Prototxt.zip
+Lexer: Cangjie                      | | Lexers/lexer.Cangjie.zip
 Lexer: Carbon                       | | Lexers/lexer.Carbon.zip
 Lexer: Clarion                      | | Lexers/lexer.Clarion.zip
 Lexer: Clavier                      | | Lexers/lexer.Clavier.zip
