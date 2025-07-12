@@ -223,6 +223,7 @@ Lexer: KiXtart                      | | Lexers/lexer.KiXtart.zip
 Lexer: Koka                         | | Lexers/lexer.Koka.zip
 Lexer: Kontakt Script Processor     | | Lexers/lexer.Kontakt_Script_Processor.zip
 Lexer: Kotlin                       | | Lexers/lexer.Kotlin.zip
+Lexer: languageONE                  | | Lexers/lexer.languageONE.zip
 Lexer: LaTeX                        | | Lexers/lexer.LaTeX.zip
 Lexer: LESS                         | | Lexers/lexer.LESS.zip
 Lexer: Lisp                         | | Lexers/lexer.Lisp.zip
