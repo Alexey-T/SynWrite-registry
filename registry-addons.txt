@@ -138,6 +138,7 @@ Lexer: Coq                          | | Lexers/lexer.Coq.zip
 Lexer: CRF files                    | | Lexers/lexer.CRF.zip
 Lexer: Crystal                      | | Lexers/lexer.Crystal.zip
 Lexer: CUDA C++                     | | Lexers/lexer.CUDA_C%2B%2B.zip
+Lexer: CVBasic                      | | Lexers/lexer.CVBasic.zip
 Lexer: Cython                       | | Lexers/lexer.Cython.zip
 Lexer: D                            | | Lexers/lexer.D.zip
 Lexer: Dalvik bytecode              | | Lexers/lexer.Dalvik_bytecode.zip
