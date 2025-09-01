@@ -229,6 +229,7 @@ Lexer: Kontakt Script Processor     | | Lexers/lexer.Kontakt_Script_Processor.zi
 Lexer: Kotlin                       | | Lexers/lexer.Kotlin.zip
 Lexer: languageONE                  | | Lexers/lexer.languageONE.zip
 Lexer: LaTeX                        | | Lexers/lexer.LaTeX.zip
+Lexer: Lean                         | | Lexers/lexer.Lean.zip
 Lexer: LESS                         | | Lexers/lexer.LESS.zip
 Lexer: Lisp                         | | Lexers/lexer.Lisp.zip
 Lexer: LiveCode                     | | Lexers/lexer.LiveCode.zip
