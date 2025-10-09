@@ -204,6 +204,7 @@ Lexer: HTML Mustache                | | Lexers/lexer.HTML_Mustache.zip
 Lexer: HTML Liquid                  | | Lexers/lexer.HTML_Liquid.zip
 Lexer: HTML Ruby-ERB                | | Lexers/lexer.HTML_Ruby-ERB.zip
 Lexer: HTML Smarty                  | | Lexers/lexer.HTML_Smarty.zip
+Lexer: Huawei VRP                   | | Lexers/lexer.Huawei_VRP.zip
 Lexer: IDL files                    | | Lexers/lexer.IDL_files.zip
 Lexer: IDL language                 | | Lexers/lexer.IDL_language.zip
 Lexer: Informix 4GL                 | | Lexers/lexer.Informix_4GL.zip
