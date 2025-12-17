@@ -143,6 +143,7 @@ Lexer: CUE sheet                    | | Lexers/lexer.CUE_sheet.zip
 Lexer: CVBasic                      | | Lexers/lexer.CVBasic.zip
 Lexer: Cython                       | | Lexers/lexer.Cython.zip
 Lexer: D                            | | Lexers/lexer.D.zip
+Lexer: Dafny                        | | Lexers/lexer.Dafny.zip
 Lexer: Dalvik bytecode              | | Lexers/lexer.Dalvik_bytecode.zip
 Lexer: Dart                         | | Lexers/lexer.Dart.zip
 Lexer: Delphi resources             | | Lexers/lexer.Delphi_resources.zip
